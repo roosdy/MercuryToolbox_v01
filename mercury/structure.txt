@@ -1,0 +1,31 @@
+thunderbird_clone/
+├── src/
+│   ├── main.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── email_account.py        # To be implemented
+│   │   ├── email_message.py
+│   │   └── contact.py              # To be implemented
+│   ├── views/
+│   │   ├── __init__.py
+│   │   ├── main_window.py
+│   │   ├── compose_window.py       # To be implemented
+│   │   └── settings_window.py      # To be implemented
+│   ├── controllers/
+│   │   ├── __init__.py
+│   │   ├── email_controller.py     # To be implemented
+│   │   └── account_controller.py   # To be implemented
+│   └── utils/
+│       ├── __init__.py
+│       ├── email_parser.py         # To be implemented
+│       ├── database.py             # To be implemented
+|       └── ai_summarizer.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_models.py
+│   ├── test_controllers.py
+│   └── test_utils.py
+├── resources/
+│   └── icons/
+├── requirements.txt
+└── README.md
