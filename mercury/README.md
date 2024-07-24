@@ -72,8 +72,8 @@ Mercury Toolbox is designed with enterprise-grade security in mind. We implement
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/communications-toolbox.git
-   cd communications-toolbox
+   git clone [https://github.com/roosdy/MercuryToolbox_v01](https://github.com/roosdy/MercuryToolbox_v01.git)
+   cd MercuryToolbox_v01
    ```
 
 2. Create and activate a virtual environment:
@@ -108,7 +108,7 @@ Mercury Toolbox is designed with enterprise-grade security in mind. We implement
 
 2. Add your email accounts:
    - Click on the "Add Email Account" button in the Email tab.
-   - Enter your email address, password, and server details.
+   - Enter your email address, password, and server details. (app password if using Gmail)
 
 3. Fetch emails:
    - Select an account from the list and click "Fetch Emails".
@@ -153,7 +153,7 @@ Always consult with your legal and compliance teams to ensure proper use and con
 
 ## Contributing
 
-We welcome contributions to the Mercury Toolbox project! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to submit contributions. All contributions will undergo security review before acceptance.
+We welcome contributions to the Mercury Toolbox project! Reach out!
 
 ## License
 
