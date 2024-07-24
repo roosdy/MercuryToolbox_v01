@@ -72,7 +72,7 @@ Mercury Toolbox is designed with enterprise-grade security in mind. We implement
 ### Steps
 1. Clone the repository:
    ```
-   git clone [https://github.com/roosdy/MercuryToolbox_v01](https://github.com/roosdy/MercuryToolbox_v01.git)
+   git clone https://github.com/roosdy/MercuryToolbox_v01.git
    cd MercuryToolbox_v01
    ```
 
